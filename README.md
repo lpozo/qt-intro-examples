@@ -2,7 +2,7 @@
 
 Basic examples to get started with Qt for GUI development in Python.
 
-# Install PyQt
+## Install PyQt
 
 ```sh
 $ python -m pip intall pyqt6
